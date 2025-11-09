@@ -1,13 +1,11 @@
-<!-- ✨ Amr AlAlwani | Animated GitHub Profile README -->
+<!-- Amr AlAlwani | GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Amr+AlAlwani+👋;AI+%26+Data+Science+Enthusiast;Computer+Science+Graduate+(2025);Turning+Data+Into+Intelligence+💡" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Amr AlAlwani</h1>
 
 <p align="center">
 🎓 <strong>Computer Science Graduate | Alexandria University (2025)</strong><br>
 📍 Alexandria, Egypt · 💌 <a href="mailto:amrkha71@gmail.com">amrkha71@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/amr-%D9%90alalwani" target="_blank">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/amr-ِalalwani">LinkedIn</a>
 </p>
 
 ---
