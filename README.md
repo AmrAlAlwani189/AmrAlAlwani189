@@ -1,77 +1,75 @@
-# 👋 Hi, I'm Amr AlAlwani  
+<!-- Amr AlAlwani | GitHub Profile README -->
 
-🎓 **Computer Science Graduate** from Alexandria University (Class of 2025)  
-📍 Alexandria, Egypt  
-📧 [amrkha71@gmail.com](mailto:amrkha71@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/amr-ِalalwani)  
+<h1 align="center">👋 Hi, I'm Amr AlAlwani</h1>
 
----
-
-## 🧠 About Me  
-
-I’m a passionate **AI and Data enthusiast** with hands-on experience in **machine learning, deep learning, and data visualization**. My work focuses on transforming raw data into meaningful insights and deploying intelligent models that solve real-world problems.  
-
-💡 I love exploring **AI applications**, designing **interactive dashboards**, and improving model performance through advanced optimization and feature engineering.  
+<p align="center">
+🎓 <strong>Computer Science Graduate | Alexandria University (2025)</strong><br>
+📍 Alexandria, Egypt · 💌 <a href="mailto:amrkha71@gmail.com">amrkha71@gmail.com</a><br>
+🔗 <a href="https://www.linkedin.com/in/amr-ِalalwani">LinkedIn</a>
+</p>
 
 ---
 
-## 🧩 Key Projects  
+### 🧠 About Me  
 
-### 🔹 Real-Time Microplastics Detection in Water  
+I’m a **Computer Science graduate** and **AI & Data enthusiast** passionate about turning data into intelligent insights.  
+My focus is on **Machine Learning, Deep Learning, and Data Visualization** — building projects that combine technical depth with practical impact.  
+
+💡 I love working with neural networks, developing Power BI dashboards, and optimizing ML models for better accuracy and performance.
+
+---
+
+### 🚀 Featured Projects  
+
+#### 🧪 Real-Time Microplastics Detection in Water  
 > *Graduation Project*  
-Developing an AI-powered sensor system to detect microplastics in water in real time. This integrates deep learning for image analysis with environmental sensor data to enhance pollution monitoring.
+AI-powered sensor system for real-time microplastic detection and analysis to support environmental sustainability.
 
-### 🔹 Multiclass Image Classifier  
+#### 🧠 Multiclass Image Classifier (CNN + ANN)  
 > *TensorFlow | Keras | Python*  
-Built an image classification model using **CNN** and **ANN** architectures. Trained and tested on diverse datasets (humans, animals, food), achieving strong accuracy and precision metrics.
+Built a hybrid CNN-ANN image classifier trained on diverse categories (humans, animals, food) with strong accuracy and precision metrics.
 
-### 🔹 Womrt Sales Forecasting  
+#### 📊 Womrt Sales Forecasting  
 > *XGBoost | Feature Engineering*  
-Developed an ensemble model for weekly sales prediction, optimizing promo and temporal features, reducing forecast error by **12%**.
+Predicted weekly store sales, engineered promo and temporal features, and achieved **12% error reduction**.
 
-### 🔹 Superstore Sales Dashboard  
-> *Power BI | DAX | Data Analysis*  
-Created an interactive Power BI dashboard analyzing regional sales, customer segments, and profitability using dynamic KPIs.
-
-### 🔹 E-Commerce Performance Report  
-> *Power BI | Power Query*  
-Built an end-to-end analytics dashboard to monitor e-commerce trends, customer retention, and product performance for strategic insights.
+#### 📈 Power BI Dashboards  
+> *Superstore & E-Commerce Reports*  
+Developed interactive dashboards with Power Query and DAX to visualize key KPIs, customer behavior, and performance trends.
 
 ---
 
-## 🧰 Technical Skills  
+### 🧰 Skills  
 
-**Programming:** Python, SQL  
-**ML Frameworks:** TensorFlow, PyTorch, scikit-learn  
+**Languages:** Python, SQL  
+**Frameworks:** TensorFlow, PyTorch, scikit-learn  
 **Visualization:** Power BI, Matplotlib, Seaborn  
-**Tools:** Jupyter Notebook, VS Code, Excel, PowerPoint  
-**Soft Skills:** Problem-Solving, Analytical Thinking, Collaboration, Adaptability  
+**Tools:** Jupyter Notebook, VS Code, Excel  
+**Soft Skills:** Problem Solving, Analytical Thinking, Collaboration, Adaptability  
 
 ---
 
-## 🎓 Training & Certifications  
+### 🎓 Certifications & Training  
 
-- 🧩 **AI Diploma – Instant Software Solutions (170 hours)**  
-- 🤖 **DeepLearning.AI Machine Learning Professional Certificate (Coursera)**  
-- ☁️ **Digital Egypt Pioneers Program – Microsoft Data Engineer**  
-- 🧮 **Machine Learning using SAS Viya 3.5**  
-- 🧠 **AI & ML Training – My-Communication Academy & Alexandria University (60h)**  
-
----
-
-## 💭 Interests  
-
-- Competitive Programming  
-- Data Storytelling & Visualization  
-- Reading about AI advancements  
+- **AI Diploma** – Instant Software Solutions (170h)  
+- **DeepLearning.AI Machine Learning Professional Certificate** – Coursera  
+- **Digital Egypt Pioneers Program – Microsoft Data Engineer**  
+- **Machine Learning using SAS Viya 3.5**  
+- **AI & ML Training** – My-Communication Academy & Alexandria University (60h)  
 
 ---
 
-## 📈 GitHub Stats  
+### 💭 Interests  
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amralalwani&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amralalwani&layout=compact&theme=tokyonight)
+🧩 Competitive Programming · 📊 Data Storytelling · 🤖 AI Innovations  
 
 ---
 
-⭐ *“Turning data into decisions, and ideas into AI solutions.”*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amralalwani&show_icons=true&theme=tokyonight" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amralalwani&layout=compact&theme=tokyonight" height="160px">
+</p>
+
+---
+
+<p align="center"><strong>“Turning data into decisions, and ideas into AI solutions.”</strong></p>
