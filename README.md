@@ -42,7 +42,7 @@ Created interactive dashboards using **Power BI, Power Query, and DAX** to visua
 ### 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sql,git,vscode,github&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sqlite,git,vscode,github&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 
